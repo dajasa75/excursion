@@ -1,0 +1,34 @@
+h1 {
+  font-family: verdana;
+  font-weight:normal;
+  font-size:50px;
+  color:white;
+  text-align:center;
+}
+
+h6.comingsoon {
+  color:aquamarine;
+  font-size:16px;
+}
+
+body {
+  background-color:black;
+  text-align:center;
+}
+
+p.veta {
+  font-family:verdana;
+  font-size:21px;
+  color:gray;
+}
+
+.rights {
+  text-align:right;
+  color:gray;
+}
+
+.guide h1 {
+  font-family:verdana;
+  font-weight:bold;
+  font-size:42px;
+}
